@@ -59,7 +59,7 @@ Same data. Same database. Two completely different API approaches.
 api-comparison/
 │
 ├── rest_server.py          # REST API server — runs on port 5000
-├── graphql_server.py       # GraphQL API server — runs on port 5001
+├── graphql_app.py       # GraphQL API server — runs on port 5001
 ├── demo_comparison.py      # Script that hits both servers and shows response diff
 ├── requirements.txt        # All dependencies
 └── README.md
@@ -116,7 +116,7 @@ python rest_server.py
 ### Terminal 2 — Start GraphQL Server
 
 ```bash
-python graphql_server.py
+python graphql_app.py
 ```
 
 ```
