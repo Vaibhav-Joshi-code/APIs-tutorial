@@ -415,15 +415,5 @@ Not human-readable but extremely efficient for internal service-to-service commu
 
 ---
 
-## 👨‍💻 Author
-
-**Vaibhav Joshi**  
-📍 Jaipur, Rajasthan  
-🎥 [YouTube Channel](#) — DevOps, Docker, Python, System Design tutorials  
-🐙 [GitHub](#) — Code for all video series
-
-> *"Theory ke baad practical — tabhi samajh mein aata hai."*
-
----
 
 ⭐ If this helped you understand the difference, drop a star and share with your batchmates!
